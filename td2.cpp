@@ -1,4 +1,5 @@
-﻿#pragma region "Includes"//{
+﻿// Test de commite de Max
+#pragma region "Includes"//{
 #define _CRT_SECURE_NO_WARNINGS // On permet d'utiliser les fonctions de copies de chaînes qui sont considérées non sécuritaires.
 
 #include "structures.hpp"      // Structures de données pour la collection de films en mémoire.
